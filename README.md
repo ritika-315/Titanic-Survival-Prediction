@@ -65,3 +65,6 @@ Count plots of survival based on gender and class.
 Distribution plots for numerical features like age and fare.
 Contributing
 Contributions are welcome! If you have any ideas or improvements, feel free to open an issue or submit a pull request.
+
+![This is the end result picture](C:\Users\ritik\OneDrive\Pictures\Screenshots)
+
