@@ -68,3 +68,5 @@ Contributions are welcome! If you have any ideas or improvements, feel free to o
 
 ![This is the end result picture](C:\Users\ritik\OneDrive\Pictures\Screenshots)
 
+![Titanic Visualization](C:\Users\ritik\OneDrive\Pictures\Screenshots)
+
