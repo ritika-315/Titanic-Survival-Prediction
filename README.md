@@ -66,7 +66,3 @@ Distribution plots for numerical features like age and fare.
 Contributing
 Contributions are welcome! If you have any ideas or improvements, feel free to open an issue or submit a pull request.
 
-![This is the end result picture](C:\Users\ritik\OneDrive\Pictures\Screenshots)
-
-![Titanic Visualization]("C:\Users\ritik\OneDrive\Pictures\Screenshots\Screenshot 2024-08-31 112823.png")
-
