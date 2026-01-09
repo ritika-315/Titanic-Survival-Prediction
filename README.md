@@ -3,16 +3,6 @@ This project is focused on predicting the survival of passengers on the Titanic 
 
 ---
 
-## 📚 Table of Contents
-- [Project Overview](#project-overview)
-- [Dataset](#dataset)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-
----
-
 ## 🔍 Project Overview
 This project involves the following steps:
 - Data collection and preprocessing  
@@ -90,22 +80,7 @@ titanic_survival_prediction/
 ---
 
 ## 📊 Results
-The logistic regression model achieved an accuracy of approximately **XX%** on the test dataset.
-
----
-
-## 🤝 Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
-
----
-
-## 📝 License
-This project is licensed under the MIT License.
-
----
-
-## 👤 Author
-Your Name - [GitHub Profile](https://github.com/yourusername)
+The logistic regression model achieved an accuracy of approximately **78.21%** on the test dataset.
 
 ---
 
