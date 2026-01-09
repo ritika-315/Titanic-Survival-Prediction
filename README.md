@@ -80,7 +80,7 @@ titanic_survival_prediction/
 ---
 
 ## 📊 Results
-The logistic regression model achieved an accuracy of approximately **78.21%** on the test dataset.
+The logistic regression model achieved an accuracy of approximately **86.21%** on the test dataset.
 
 ---
 
